@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShakilAnsary9
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Instagram
 - 📫 How to reach me shakil_ansary9
 
